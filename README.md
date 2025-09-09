@@ -37,7 +37,7 @@ Copy code
 cd repo-name
 Open index.html in your browser.
 
-📸 Screenshot
+<img width="675" height="815" alt="Screenshot 2025-09-09 172106" src="https://github.com/user-attachments/assets/10a027de-c004-4ca1-8cce-a3073f234233" />
 
 ✅ Future Enhancements
 Add dark mode support
